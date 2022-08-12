@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @fighy2021 
 - 👀 I’m interested in Internet of Things,Machine Vision,artificial intelligence,Transposition cipher and more.
 - 🌱 I’m currently learning in electronics.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
           ig : "dy8ool,xn" (2,11)(use keyboard)
-          yt : 
+- 💞️ I’m looking to collaborate on ...
 
 
 <!---
