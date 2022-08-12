@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @fighy2021
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning . . .
+- 👋 Hi, I’m @fighy2021 
+- 👀 I’m interested in Internet of Things,Machine Vision,artificial intelligence,Transposition cipher and more.
+- 🌱 I’m currently learning in electronics.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+          ig : "dy8ool,xn" (2,11)(use keyboard)
+          yt : 
+
 
 <!---
 fighy2021/fighy2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
