@@ -2,7 +2,7 @@
 - 👀 I’m interested in Internet of Things,Machine Vision,artificial intelligence,Transposition cipher and more.
 - 🌱 I’m currently learning in electronics.
 - 📫 How to reach me 
-          ig : "dy8ool,xn" (2,11)(use keyboard)
+          ig : ""dy8ool,xn"" (2,11)(keyboard)
 - 💞️ I’m looking to collaborate on ...
 
 
